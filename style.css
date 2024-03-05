@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(38,34,33);
+}
+h4{
+    color:rgb(36,36,36);
+}
+.prghp{
+    margin-left: 300px;
+    font-family: Montserrat, sans-serif !important;
+    word-wrap: break-word;
+
+}
+h1{
+    color:rgb(223,152,15);
+    font-weight:1000px;
+    font-size: 96px;
+    margin: 120px 1200px 0px 0px;
+}
+p{
+    color:white;
+    margin: 46px 360px 0px 0px ;
+    width:550px;
+    
+}
+img{
+    width: 770px;
+    margin-left: 800px;
+    margin-top: -500px;
+    display: inline;
+    
+}
+
+.read a{
+    background-color: orange;
+    color:white;
+    text-decoration:none;
+    padding: 15px 35px 15px 35px;
+    border-radius: 20px;
+    margin: 300px;
+    
+}
+    
+    
+
+span a{
+    color: orange;
+    text-decoration: none;
+}
+
